@@ -1,6 +1,3 @@
-Here’s an updated description that incorporates **React** for the frontend:  
-
----
 
 # ShopVerse – Online Marketplace Database System  
 
@@ -29,9 +26,9 @@ Here’s an updated description that incorporates **React** for the frontend:
 - Optimized queries for seamless performance and scalability.  
 
 ## Technologies Used  
-- **Frontend**: React (JSX, CSS)  
+- **Frontend**: React (JSX)  
 - **Backend**: Node.js, Express.js  
-- **Database**: SQL (MySQL, PostgreSQL, or similar)  
+- **Database**: SQL (MySQL)  
 - **Version Control**: Git and GitHub  
 
 ## Key Learning Outcomes  
@@ -44,12 +41,12 @@ Here’s an updated description that incorporates **React** for the frontend:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/shopverse.git  
+   git clone https://github.com/Waseem12wa/DataBase-System.git  
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd shopverse  
+   cd Database-System  
    ```  
 
 3. Install dependencies for both frontend and backend:  
@@ -69,9 +66,5 @@ Here’s an updated description that incorporates **React** for the frontend:
 ## Contribution  
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance ShopVerse.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
 
---- 
 
-Let me know if you’d like adjustments to the structure or additional sections!
